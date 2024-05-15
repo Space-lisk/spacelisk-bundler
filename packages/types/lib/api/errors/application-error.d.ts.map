@@ -1,0 +1,1 @@
+{"version":3,"file":"application-error.d.ts","sourceRoot":"","sources":["../../../src/api/errors/application-error.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,gBAAiB,SAAQ,KAAK;IACjD,OAAO,SAAsB;IAE7B,MAAM,SAAO;gBAED,OAAO,CAAC,EAAE,MAAM,EAAE,MAAM,CAAC,EAAE,MAAM;CAS9C"}

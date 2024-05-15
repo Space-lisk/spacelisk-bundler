@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/gas-price-oracles/oracles/index.ts"],"names":[],"mappings":"AAAA,cAAc,cAAc,CAAC;AAC7B,cAAc,SAAS,CAAC;AAMxB,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAKvC,eAAO,MAAM,OAAO,EAAE;IACpB,CAAC,OAAO,EAAE,MAAM,GAAG,OAAO,GAAG,SAAS,CAAC;CAUxC,CAAC"}

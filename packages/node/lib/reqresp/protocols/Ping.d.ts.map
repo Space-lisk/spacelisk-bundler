@@ -1,0 +1,1 @@
+{"version":3,"file":"Ping.d.ts","sourceRoot":"","sources":["../../../src/reqresp/protocols/Ping.ts"],"names":[],"mappings":"AAAA,OAAO,EAAO,EAAE,EAAE,MAAM,WAAW,CAAC;AACpC,OAAO,EAGL,kBAAkB,EAClB,cAAc,EACf,MAAM,UAAU,CAAC;AAGlB,wBAAgB,IAAI,CAClB,OAAO,EAAE,cAAc,CAAC,EAAE,CAAC,IAAI,EAAE,EAAE,CAAC,IAAI,CAAC,GACxC,kBAAkB,CAAC,EAAE,CAAC,IAAI,EAAE,EAAE,CAAC,IAAI,CAAC,CAetC"}

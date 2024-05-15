@@ -1,0 +1,1 @@
+{"version":3,"file":"arbitrum.js","sourceRoot":"","sources":["../../../src/gas-price-oracles/oracles/arbitrum.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,kBAAkB,EAAE,MAAM,SAAS,CAAC;AAE7C,MAAM,CAAC,MAAM,iBAAiB,GAAY,CACxC,MAA0B,EACC,EAAE,CAC7B,kBAAkB,CAAC,oCAAoC,EAAE,MAAM,CAAC,CAAC"}

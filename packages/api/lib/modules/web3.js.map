@@ -1,0 +1,1 @@
+{"version":3,"file":"web3.js","sourceRoot":"","sources":["../../src/modules/web3.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,OAAO;IAClB,YAAoB,UAAgB;QAAhB,eAAU,GAAV,UAAU,CAAM;IAAG,CAAC;IAExC,aAAa;QACX,OAAO,IAAI,CAAC,UAAU,CAAC,aAAa,EAAE,CAAC;IACzC,CAAC;CACF"}

@@ -1,0 +1,16 @@
+export declare const INVALID_USEROP = -32602;
+export declare const VALIDATION_FAILED = -32500;
+export declare const REJECTED_BY_PAYMASTER = -32501;
+export declare const INVALID_OPCODE = -32502;
+export declare const USEROP_EXPIRED = -32503;
+export declare const PAYMASTER_OR_AGGREGATOR_BANNED = -32504;
+export declare const STAKE_DELAY_TOO_LOW = -32505;
+export declare const INVALID_SIGNATURE_AGGREGATOR = -32506;
+export declare const INVALID_SIGNATURE = -32507;
+export declare const PARSE_ERROR = -32700;
+export declare const INVALID_REQUEST = -32600;
+export declare const METHOD_NOT_FOUND = -32601;
+export declare const INTERNAL_ERROR = -32603;
+export declare const EXECUTION_REVERTED = -32521;
+export declare const SERVER_ERROR = -32000;
+//# sourceMappingURL=rpc-error-codes.d.ts.map

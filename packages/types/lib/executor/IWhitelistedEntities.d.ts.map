@@ -1,0 +1,1 @@
+{"version":3,"file":"IWhitelistedEntities.d.ts","sourceRoot":"","sources":["../../src/executor/IWhitelistedEntities.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,OAAO,GAAG,WAAW,GAAG,SAAS,GAAG,SAAS,CAAC;AAC1D,MAAM,MAAM,qBAAqB,GAAG,YAAY,GAAG,OAAO,CAAC;AAE3D,MAAM,MAAM,oBAAoB,GAAG;KAChC,MAAM,IAAI,OAAO,CAAC,CAAC,EAAE,MAAM,EAAE;CAC/B,CAAC"}

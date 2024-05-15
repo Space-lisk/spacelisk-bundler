@@ -1,0 +1,1 @@
+{"version":3,"file":"publishVerifiedUserOperation.js","sourceRoot":"","sources":["../../src/api/publishVerifiedUserOperation.ts"],"names":[],"mappings":"AAGA,MAAM,CAAC,OAAO,UAAU,GAAG,CAAC,OAAuB;IACjD,OAAO,KAAK,UAAU,4BAA4B,CAChD,MAAgC,EAChC,OAAe;QAEf,MAAM,OAAO,CAAC,OAAO,CAAC,4BAA4B,CAAC,MAAM,EAAE,OAAO,CAAC,CAAC;IACtE,CAAC,CAAC;AACJ,CAAC"}

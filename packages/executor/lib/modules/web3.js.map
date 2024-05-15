@@ -1,0 +1,1 @@
+{"version":3,"file":"web3.js","sourceRoot":"","sources":["../../src/modules/web3.ts"],"names":[],"mappings":"AAGA,MAAM,OAAO,IAAI;IACf,YAAoB,MAAc,EAAU,OAAuB;QAA/C,WAAM,GAAN,MAAM,CAAQ;QAAU,YAAO,GAAP,OAAO,CAAgB;IAAG,CAAC;IAEvE,aAAa;QACX,OAAO,WAAW,IAAI,CAAC,OAAO,CAAC,OAAO,IAAI,IAAI,CAAC,OAAO,CAAC,MAAM,EAAE,CAAC;IAClE,CAAC;CACF"}

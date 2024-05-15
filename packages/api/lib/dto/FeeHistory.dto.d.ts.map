@@ -1,0 +1,1 @@
+{"version":3,"file":"FeeHistory.dto.d.ts","sourceRoot":"","sources":["../../src/dto/FeeHistory.dto.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAC;AAGtC,qBAAa,cAAc;IAEzB,UAAU,EAAG,MAAM,CAAC;IAGpB,UAAU,EAAG,YAAY,CAAC;IAI1B,WAAW,EAAG,YAAY,GAAG,MAAM,CAAC;CACrC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"matic.js","sourceRoot":"","sources":["../../src/networks/matic.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,CAAC,EAAE,MAAM,gBAAgB,CAAC;AAGpD,MAAM,CAAC,MAAM,kBAAkB,GAAmB;IAChD,QAAQ,EAAE,GAAG;IACb,oBAAoB,EAAE,CAAC,CAAC,CAAC,4CAA4C,CAAC,CAAC;CACxE,CAAC"}

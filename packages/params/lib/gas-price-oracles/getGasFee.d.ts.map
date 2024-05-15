@@ -1,0 +1,1 @@
+{"version":3,"file":"getGasFee.d.ts","sourceRoot":"","sources":["../../src/gas-price-oracles/getGasFee.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AACnC,OAAO,EAAE,gBAAgB,EAAE,cAAc,EAAW,MAAM,WAAW,CAAC;AAEtE,eAAO,MAAM,SAAS,YACX,MAAM,YACL,UAAU,eAAe,6BAEzB,cAAc,KACvB,QAAQ,gBAAgB,CA2B1B,CAAC"}

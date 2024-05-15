@@ -1,0 +1,1 @@
+{"version":3,"file":"uncompress.d.ts","sourceRoot":"","sources":["../../../../../src/reqresp/encodingStrategies/sszSnappy/snappyFrames/uncompress.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,gBAAgB,CAAC;AAIhD,qBAAa,sBAAsB;IACjC,OAAO,CAAC,MAAM,CAAwB;IAEtC,OAAO,CAAC,KAAK,CAEX;IAEF;;;;OAIG;IACH,UAAU,CAAC,KAAK,EAAE,cAAc,GAAG,cAAc,GAAG,IAAI;IA2CxD,KAAK,IAAI,IAAI;CAMd"}

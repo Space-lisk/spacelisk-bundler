@@ -1,0 +1,1 @@
+{"version":3,"file":"SetMempool.dto.js","sourceRoot":"","sources":["../../src/dto/SetMempool.dto.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,EACL,OAAO,EACP,SAAS,EACT,iBAAiB,EACjB,cAAc,GACf,MAAM,iBAAiB,CAAC;AAGzB,MAAM,OAAO,cAAc;CAQ1B;AAJC;IAHC,SAAS,EAAE;IACX,OAAO,EAAE;IACT,cAAc,EAAE;+CACmB;AAGpC;IADC,iBAAiB,EAAE;kDACA"}

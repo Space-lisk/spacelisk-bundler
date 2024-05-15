@@ -1,0 +1,1 @@
+{"version":3,"file":"rpc-error.d.ts","sourceRoot":"","sources":["../../../src/api/errors/rpc-error.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,QAAS,SAAQ,KAAK;IAIvC,QAAQ,CAAC,IAAI,CAAC;IAEd,QAAQ,CAAC,IAAI,EAAE,GAAG;gBAHlB,GAAG,EAAE,MAAM,EACF,IAAI,CAAC,oBAAQ,EAEb,IAAI,GAAE,GAAe;CAIjC"}

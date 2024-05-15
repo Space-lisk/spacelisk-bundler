@@ -1,0 +1,1 @@
+{"version":3,"file":"p2p.d.ts","sourceRoot":"","sources":["../../src/metrics/p2p.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,OAAO,EAAE,MAAM,aAAa,CAAC;AAEhD,MAAM,WAAW,WAAW;IAC1B,WAAW,EAAE,OAAO,CAAC,QAAQ,CAAC;IAC9B,eAAe,EAAE,OAAO,CAAC,QAAQ,CAAC;CACnC;AAcD,wBAAgB,gBAAgB,CAC9B,QAAQ,EAAE,QAAQ,EAClB,OAAO,EAAE,MAAM,GACd,WAAW,CAQb"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"redirect.d.ts","sourceRoot":"","sources":["../../src/modules/redirect.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,MAAM,EAAE,MAAM,qBAAqB,CAAC;AAE7C,qBAAa,WAAW;IAGV,OAAO,CAAC,MAAM;IAF1B,OAAO,CAAC,QAAQ,CAA4B;gBAExB,MAAM,EAAE,MAAM;IAI5B,QAAQ,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,GAAG,EAAE,GAAG,OAAO,CAAC,GAAG,CAAC;CAsC5D"}

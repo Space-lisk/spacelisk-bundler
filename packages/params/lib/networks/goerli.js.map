@@ -1,0 +1,1 @@
+{"version":3,"file":"goerli.js","sourceRoot":"","sources":["../../src/networks/goerli.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,CAAC,EAAE,MAAM,gBAAgB,CAAC;AAEpD,OAAO,EAAE,kBAAkB,EAAE,MAAM,UAAU,CAAC;AAE9C,MAAM,CAAC,MAAM,mBAAmB,GAAmB;IACjD,QAAQ,EAAE,CAAC;IACX,oBAAoB,EAAE,CAAC,CAAC,CAAC,4CAA4C,CAAC,CAAC;IACvE,iBAAiB,EAAE,kBAAkB,CACnC,gDAAgD,CACjD;CACF,CAAC"}

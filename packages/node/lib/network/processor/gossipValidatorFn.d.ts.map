@@ -1,0 +1,1 @@
+{"version":3,"file":"gossipValidatorFn.d.ts","sourceRoot":"","sources":["../../../src/network/processor/gossipValidatorFn.ts"],"names":[],"mappings":"AAEA,OAAO,EACL,iBAAiB,EACjB,cAAc,EAEf,MAAM,qBAAqB,CAAC;AAI7B,MAAM,MAAM,kBAAkB,GAAG,EAAE,CAAC;AAEpC;;;;;;;;;;;;;GAaG;AACH,wBAAgB,oBAAoB,CAClC,cAAc,EAAE,cAAc,EAC9B,QAAQ,EAAE,kBAAkB,GAC3B,iBAAiB,CAyCnB"}

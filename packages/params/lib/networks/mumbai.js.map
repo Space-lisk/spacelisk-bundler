@@ -1,0 +1,1 @@
+{"version":3,"file":"mumbai.js","sourceRoot":"","sources":["../../src/networks/mumbai.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,CAAC,EAAE,MAAM,gBAAgB,CAAC;AACpD,OAAO,EAAE,kBAAkB,EAAE,MAAM,UAAU,CAAC;AAG9C,MAAM,CAAC,MAAM,mBAAmB,GAAmB;IACjD,QAAQ,EAAE,KAAK;IACf,oBAAoB,EAAE,CAAC,CAAC,CAAC,4CAA4C,CAAC,CAAC;IACvE,iBAAiB,EAAE,kBAAkB,CACnC,gDAAgD,CACjD;CACF,CAAC"}

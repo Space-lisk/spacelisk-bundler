@@ -1,0 +1,1 @@
+{"version":3,"file":"onChunk.js","sourceRoot":"","sources":["../../../src/reqresp/utils/onChunk.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,UAAU,OAAO,CACrB,QAA4B;IAE5B,OAAO,KAAK,SAAS,CAAC,CAAC,gBAAgB,CAAC,MAAM;QAC5C,IAAI,KAAK,EAAE,MAAM,KAAK,IAAI,MAAM,EAAE,CAAC;YACjC,QAAQ,CAAC,KAAK,CAAC,CAAC;YAChB,MAAM,KAAK,CAAC;QACd,CAAC;IACH,CAAC,CAAC;AACJ,CAAC"}

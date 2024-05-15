@@ -1,0 +1,1 @@
+{"version":3,"file":"xdai.js","sourceRoot":"","sources":["../../src/networks/xdai.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,CAAC,EAAE,MAAM,gBAAgB,CAAC;AAGpD,MAAM,CAAC,MAAM,iBAAiB,GAAmB;IAC/C,QAAQ,EAAE,GAAG;IACb,oBAAoB,EAAE,CAAC,CAAC,CAAC,4CAA4C,CAAC,CAAC;CACxE,CAAC"}

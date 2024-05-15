@@ -1,0 +1,1 @@
+{"version":3,"file":"network.js","sourceRoot":"","sources":["../../src/options/network.ts"],"names":[],"mappings":"AASA,MAAM,CAAC,MAAM,iBAAiB,GAAe;IAC3C,IAAI,EAAE,SAAS;IACf,IAAI,EAAE,IAAI;IACV,OAAO,EAAE,WAAW;IACpB,OAAO,EAAE,IAAI;IACb,QAAQ,EAAE,EAAE;IACZ,YAAY,EAAE,IAAI;CACnB,CAAC"}

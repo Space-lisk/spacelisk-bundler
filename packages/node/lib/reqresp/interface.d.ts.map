@@ -1,0 +1,1 @@
+{"version":3,"file":"interface.d.ts","sourceRoot":"","sources":["../../src/reqresp/interface.ts"],"names":[],"mappings":"AACA,oBAAY,UAAU;IACpB;;OAEG;IACH,OAAO,IAAI;IACX;;;OAGG;IACH,eAAe,IAAI;IACnB;;OAEG;IACH,YAAY,IAAI;IAChB;;OAEG;IACH,oBAAoB,IAAI;IACxB;;OAEG;IACH,YAAY,MAAM;CACnB;AAED,MAAM,MAAM,sBAAsB,GAAG,OAAO,CAAC,UAAU,EAAE,UAAU,CAAC,OAAO,CAAC,CAAC"}

@@ -1,0 +1,10 @@
+{
+  "entryPoints": [
+    "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  ],
+  "relayers": [
+    "0x0101010101010101010101010101010101010101010101010101010101010101"
+  ],
+  "beneficiary": "0x325522253A66c475c5c5302D5a2538115969c09c",
+  "rpcEndpoint": "https://rpc.sepolia-api.lisk.com/"
+}

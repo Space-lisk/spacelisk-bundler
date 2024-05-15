@@ -1,0 +1,1 @@
+{"version":3,"file":"mainnet.js","sourceRoot":"","sources":["../../src/networks/mainnet.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,CAAC,EAAE,MAAM,gBAAgB,CAAC;AAGpD,MAAM,CAAC,MAAM,oBAAoB,GAAmB;IAClD,QAAQ,EAAE,CAAC;IACX,oBAAoB,EAAE,CAAC,CAAC,CAAC,4CAA4C,CAAC,CAAC;CACxE,CAAC"}
