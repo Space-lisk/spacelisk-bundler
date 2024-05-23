@@ -1,5 +1,5 @@
 import { SignableENR, createKeypairFromPeerId, } from "@chainsafe/discv5";
-import { defaultP2POptions } from "types/lib/options/index.js";
+import { defaultP2POptions } from "../../../types/lib/options/index.js";
 import { createSecp256k1PeerId } from "@libp2p/peer-id-factory";
 export const defaultP2PHost = "127.0.0.1";
 export const defaultP2PPort = 4337;

@@ -18,5 +18,5 @@ edit config.json
 ## Running
 
 ```bash
-./skandha standalone --redirectRpc --unsafeMode --api.ws false
+yarn run start-bundler
 ```

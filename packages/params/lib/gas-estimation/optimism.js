@@ -1,5 +1,5 @@
 import { BigNumber, ethers } from "ethers";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/index.js";
 import { estimateL1GasCost } from "@eth-optimism/sdk";
 export const estimateOptimismPVG = (provider) => {
     const dummyWallet = ethers.Wallet.createRandom();

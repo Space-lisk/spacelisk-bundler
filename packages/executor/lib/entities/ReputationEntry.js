@@ -1,4 +1,4 @@
-import { ReputationStatus } from "types/lib/executor/index.js";
+import { ReputationStatus } from "../../../types/lib/executor/index.js";
 import { now } from "../utils/index.js";
 export class ReputationEntry {
     constructor({ chainId, address, opsSeen = 0, opsIncluded = 0, lastUpdateTime = 0, }) {

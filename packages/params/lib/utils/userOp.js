@@ -1,6 +1,6 @@
-import { ssz } from "types/lib/index.js";
-import { Bytes32, UintBn256 } from "types/lib/primitive/sszTypes.js";
-import { fromHex, toHex } from "utils/lib/index.js";
+import { ssz } from "../../../types/lib/index.js";
+import { Bytes32, UintBn256 } from "../../../types/lib/primitive/sszTypes.js";
+import { fromHex, toHex } from "../../../utils/lib/index.js";
 import { BigNumber } from "ethers";
 import { getAddress } from "ethers/lib/utils.js";
 const bigintToBigNumber = (bn) => {

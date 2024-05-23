@@ -1,5 +1,5 @@
 import { providers } from "ethers";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../../../types/lib/executor/contracts/index.js";
 import { estimateBundleGasLimit } from "../utils/index.js";
 import { now } from "../../../utils/index.js";
 import { BaseRelayer } from "./base.js";

@@ -1,5 +1,5 @@
 import { BigNumber, ethers, Contract } from "ethers";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/index.js";
 import { serializeTransaction } from "ethers/lib/utils.js";
 export const estimateAncient8PVG = (provider) => {
     const dummyWallet = ethers.Wallet.createRandom();

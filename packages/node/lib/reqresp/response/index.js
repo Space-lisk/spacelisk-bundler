@@ -1,5 +1,5 @@
 import { pipe } from "it-pipe";
-import { TimeoutError, withTimeout } from "utils/lib/index.js";
+import { TimeoutError, withTimeout } from "../../../../utils/lib/index.js";
 import { prettyPrintPeerId } from "../utils/index.js";
 import { requestDecode } from "../encoders/requestDecode.js";
 import { responseEncodeError, responseEncodeSuccess, } from "../encoders/responseEncode.js";

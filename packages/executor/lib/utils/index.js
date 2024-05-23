@@ -1,7 +1,7 @@
 var _a;
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { defaultAbiCoder, hexlify, keccak256, } from "ethers/lib/utils.js";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/factories/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/factories/index.js";
 const UserOpType = (_a = IEntryPoint__factory.abi.find((entry) => entry.name === "simulateValidation").inputs) === null || _a === void 0 ? void 0 : _a[0];
 if (UserOpType == null) {
     throw new Error("unable to find method simulateValidation in EntryPoint ABI");

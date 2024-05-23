@@ -1,7 +1,7 @@
 import { compress, uncompress } from "snappyjs";
 import xxhashFactory from "xxhash-wasm";
 import { digest } from "@chainsafe/as-sha256";
-import { intToBytes, toHex } from "utils/lib/index.js";
+import { intToBytes, toHex } from "../../../../utils/lib/index.js";
 import { MESSAGE_DOMAIN_VALID_SNAPPY } from "./constants.js";
 import { getGossipSSZType } from "./topic.js";
 // Load WASM

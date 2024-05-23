@@ -1,8 +1,8 @@
-import { Server } from "api/lib/server.js";
-import { ApiApp } from "api/lib/app.js";
-import { Executor } from "executor/lib/executor.js";
-import logger from "api/lib/logger.js";
-import { createMetrics, getHttpMetricsServer } from "monitoring/lib/index.js";
+import { Server } from "../../api/lib/server.js";
+import { ApiApp } from "../../api/lib/app.js";
+import { Executor } from "../../executor/lib/executor.js";
+import logger from "../../api/lib/logger.js";
+import { createMetrics, getHttpMetricsServer } from "../../monitoring/lib/index.js";
 import { Network } from "./network/network.js";
 import { SyncService } from "./sync/index.js";
 import { getApi } from "./api/index.js";

@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/explicit-member-accessibility */
 import { BigNumber } from "ethers";
-import { chainsWithoutEIP1559 } from "params/lib/index.js";
+import { chainsWithoutEIP1559 } from "../../params/lib/index.js";
 import { Web3, Debug, Eth, Skandha } from "./modules/index.js";
 import { MempoolService, UserOpValidationService, BundlingService, ReputationService, P2PService, EventsService, ExecutorEventBus, SubscriptionService, } from "./services/index.js";
 export class Executor {

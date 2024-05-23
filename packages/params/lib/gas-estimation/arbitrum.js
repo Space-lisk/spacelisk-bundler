@@ -1,7 +1,7 @@
 import { NodeInterface__factory } from "@arbitrum/sdk/dist/lib/abi/factories/NodeInterface__factory.js";
 import { NODE_INTERFACE_ADDRESS } from "@arbitrum/sdk/dist/lib/dataEntities/constants.js";
 import { BigNumber, ethers } from "ethers";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/index.js";
 export const estimateArbitrumPVG = (provider) => {
     const nodeInterface = NodeInterface__factory.connect(NODE_INTERFACE_ADDRESS, provider);
     const dummyWallet = ethers.Wallet.createRandom();

@@ -1,6 +1,6 @@
 import { GossipSub } from "@chainsafe/libp2p-gossipsub";
-import logger from "api/lib/logger.js";
-import { GOSSIP_MAX_SIZE } from "types/lib/sszTypes.js";
+import logger from "../../../../api/lib/logger.js";
+import { GOSSIP_MAX_SIZE } from "../../../../types/lib/sszTypes.js";
 import { SignaturePolicy } from "@chainsafe/libp2p-gossipsub/types";
 import { NetworkEvent } from "../events.js";
 import { GossipType, } from "./interface.js";

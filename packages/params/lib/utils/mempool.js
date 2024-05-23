@@ -1,4 +1,4 @@
-import { MempoolId } from "types/lib/sszTypes.js";
+import { MempoolId } from "../../../types/lib/sszTypes.js";
 import { utils } from "ethers";
 export function serializeMempoolId(mempoolId) {
     const id = utils.toUtf8Bytes(mempoolId);

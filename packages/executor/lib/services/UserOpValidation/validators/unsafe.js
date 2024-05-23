@@ -1,4 +1,4 @@
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../../../types/lib/executor/contracts/index.js";
 import { BigNumber, Contract } from "ethers";
 import { nonGethErrorHandler, parseErrorResult } from "../utils.js";
 export class UnsafeValidationService {

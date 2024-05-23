@@ -1,6 +1,6 @@
 import { Mutex } from "async-mutex";
 import { constants, utils } from "ethers";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import { MempoolEntryStatus } from "../../../../../types/lib/executor/index.js";
 import { getAddr, now } from "../../../utils/index.js";
 const WAIT_FOR_TX_MAX_RETRIES = 3; // 3 blocks
 export class BaseRelayer {

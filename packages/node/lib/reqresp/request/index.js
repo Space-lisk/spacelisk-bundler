@@ -1,5 +1,5 @@
 import { pipe } from "it-pipe";
-import { ErrorAborted, withTimeout, TimeoutError } from "utils/lib/index.js";
+import { ErrorAborted, withTimeout, TimeoutError } from "../../../../utils/lib/index.js";
 import { prettyPrintPeerId, abortableSource } from "../utils/index.js";
 import { ResponseError } from "../response/index.js";
 import { requestEncode } from "../encoders/requestEncode.js";

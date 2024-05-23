@@ -1,4 +1,4 @@
-import { SkandhaError } from "utils/lib/index.js";
+import { SkandhaError } from "../../../../utils/lib/index.js";
 import { RespStatus } from "../interface.js";
 export var ResponseErrorCode;
 (function (ResponseErrorCode) {

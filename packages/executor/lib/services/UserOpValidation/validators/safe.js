@@ -1,8 +1,8 @@
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../../../types/lib/executor/contracts/index.js";
 import { BigNumber, ethers } from "ethers";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import { AddressZero, BytesZero, EPv6UserOpEventHash } from "params/lib/index.js";
+import RpcError from "../../../../../types/lib/api/errors/rpc-error.js";
+import * as RpcErrorCodes from "../../../../../types/lib/api/errors/rpc-error-codes.js";
+import { AddressZero, BytesZero, EPv6UserOpEventHash } from "../../../../../params/lib/index.js";
 import { GethTracer } from "../GethTracer.js";
 import { callsFromEntryPointMethodSigs, isSlotAssociatedWith, parseCallStack, parseEntitySlots, parseValidationResult, } from "../utils.js";
 /**

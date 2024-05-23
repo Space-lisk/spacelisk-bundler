@@ -1,9 +1,9 @@
 import { resolve } from "node:path";
-import { Config } from "executor/lib/config.js";
-import { Namespace, getNamespaceByValue, RocksDbController } from "db/lib/index.js";
-import { BundlerNode, defaultOptions } from "node/lib/index.js";
-import { initNetworkOptions } from "node/lib/index.js";
-import logger from "api/lib/logger.js";
+import { Config } from "../../../../executor/lib/config.js";
+import { Namespace, getNamespaceByValue, RocksDbController } from "../../../../db/lib/index.js";
+import { BundlerNode, defaultOptions } from "../../../../node/lib/index.js";
+import { initNetworkOptions } from "../../../../node/lib/index.js";
+import logger from "../../../../api/lib/logger.js";
 import { mkdir, readFile } from "../../util/index.js";
 import { getVersionData } from "../../util/version.js";
 import { initPeerIdAndEnr } from "./initPeerIdAndEnr.js";

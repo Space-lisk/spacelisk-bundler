@@ -1,4 +1,4 @@
-import { ssz } from "types/lib/index.js";
+import { ssz } from "../../../../types/lib/index.js";
 import { GossipEncoding, GossipType, } from "./interface.js";
 import { DEFAULT_ENCODING } from "./constants.js";
 export class GossipTopicCache {

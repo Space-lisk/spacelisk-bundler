@@ -1,5 +1,5 @@
-import { pruneSetToMax, sleep } from "utils/lib/index.js";
-import { ssz } from "types/lib/index.js";
+import { pruneSetToMax, sleep } from "../../../../utils/lib/index.js";
+import { ssz } from "../../../../types/lib/index.js";
 import { ENRKey } from "../metadata.js";
 import { getConnectionsMap, getDefaultDialer, prettyPrintPeerId, } from "../../utils/index.js";
 import { Discv5Worker } from "../discv5/index.js";

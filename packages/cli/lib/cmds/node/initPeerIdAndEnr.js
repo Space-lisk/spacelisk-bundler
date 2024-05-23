@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { SignableENR, createKeypairFromPeerId } from "@chainsafe/discv5";
 import { createSecp256k1PeerId } from "@libp2p/peer-id-factory";
-import { defaultP2POptions } from "types/lib/options/index.js";
+import { defaultP2POptions } from "../../../../types/lib/options/index.js";
 import { fromString as uint8ArrayFromString } from "uint8arrays/from-string";
 import { toString as uint8ArrayToString } from "uint8arrays/to-string";
 import { peerIdFromBytes } from "@libp2p/peer-id";

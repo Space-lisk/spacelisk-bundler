@@ -1,4 +1,4 @@
-import { ssz } from "types/lib/index.js";
+import { ssz } from "../../../../types/lib/index.js";
 import { ContextBytesType, Encoding, } from "../types.js";
 /* eslint-disable @typescript-eslint/naming-convention */
 const MetadataCommon = {

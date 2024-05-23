@@ -1,4 +1,4 @@
-import { ssz } from "types/lib/index.js";
+import { ssz } from "../../../../types/lib/index.js";
 import { ContextBytesType, Encoding, } from "../types.js";
 // eslint-disable-next-line @typescript-eslint/naming-convention
 export function Ping(handler) {

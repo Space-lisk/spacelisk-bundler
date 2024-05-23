@@ -1,4 +1,4 @@
-import { now } from "executor/lib/utils/index.js";
+import { now } from "../../../executor/lib/utils/index.js";
 export class LocalStatusCache {
     constructor(reqRespHandlers, cached) {
         this.reqRespHandlers = reqRespHandlers;

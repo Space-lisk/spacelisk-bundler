@@ -1,4 +1,4 @@
-import { defaultApiOptions } from "types/lib/options/index.js";
+import { defaultApiOptions } from "../../../types/lib/options/index.js";
 import { defaultDBOptions } from "./db.js";
 import { defaultNetworkOptions } from "./network.js";
 export const defaultOptions = {

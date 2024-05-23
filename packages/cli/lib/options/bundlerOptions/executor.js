@@ -1,4 +1,4 @@
-import { defaultExecutorOptions } from "types/lib/options/executor.js";
+import { defaultExecutorOptions } from "../../../../types/lib/options/executor.js";
 export function parseArgs(args) {
     return {
         bundlingMode: args["executor.bundlingMode"],

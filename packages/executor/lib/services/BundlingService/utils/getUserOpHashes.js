@@ -1,4 +1,4 @@
-import { IMulticall3__factory } from "types/lib/executor/contracts/factories/IMulticall3__factory.js";
+import { IMulticall3__factory } from "../../../../../types/lib/executor/contracts/factories/IMulticall3__factory.js";
 /**
  * returns userop hashes
  * @param entryPoint address of the entrypoint

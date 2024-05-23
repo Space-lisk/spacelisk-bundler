@@ -1,4 +1,4 @@
-import * as ssz from "types/lib/primitive/sszTypes.js";
+import * as ssz from "../../../types/lib/primitive/sszTypes.js";
 import { ethers } from "ethers";
 export function bytes32ToNumber(bytes) {
     return ethers.BigNumber.from(ssz.Bytes32.toJson(bytes)).toNumber();

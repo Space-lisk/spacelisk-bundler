@@ -1,5 +1,5 @@
-import logger from "api/lib/logger.js";
-import { deserializeVerifiedUserOperation } from "params/lib/utils/userOp.js";
+import logger from "../../../../api/lib/logger.js";
+import { deserializeVerifiedUserOperation } from "../../../../params/lib/utils/userOp.js";
 import { GossipType } from "../gossip/interface.js";
 import { validateGossipVerifiedUserOperation } from "../validation/index.js";
 import { GossipValidationError } from "../gossip/errors.js";

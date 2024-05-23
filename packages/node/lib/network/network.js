@@ -1,6 +1,6 @@
-import { ssz } from "types/lib/index.js";
-import logger from "api/lib/logger.js";
-import { serializeMempoolId } from "params/lib/index.js";
+import { ssz } from "../../../types/lib/index.js";
+import logger from "../../../api/lib/logger.js";
+import { serializeMempoolId } from "../../../params/lib/index.js";
 import { getConnectionsMap } from "../utils/index.js";
 import { NetworkEventBus } from "./events.js";
 import { MetadataController } from "./metadata.js";

@@ -6,7 +6,7 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "start-bundler": "node ./skandha standalone --redirectRpc --unsafeMode --api.ws false",
+    "start-bundler": "node --experimental-specifier-resolution=node ./packages/cli/bin/skandha.js standalone --redirectRpc --unsafeMode --api.ws false",
     "clean": "rm -rf ./packages/*/lib ./packages/*/*.tsbuildinfo",
     "bootstrap": "lerna bootstrap & lerna link",
     "prebuild": "yarn workspace types run build",

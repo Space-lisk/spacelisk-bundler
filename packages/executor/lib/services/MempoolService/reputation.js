@@ -1,7 +1,7 @@
 import { utils } from "ethers";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import { ReputationStatus, } from "types/lib/executor/index.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
+import RpcError from "../../../../types/lib/api/errors/rpc-error.js";
+import { ReputationStatus, } from "../../../../types/lib/executor/index.js";
+import * as RpcErrorCodes from "../../../../types/lib/api/errors/rpc-error-codes.js";
 import { getAddr } from "../../utils/index.js";
 import { MAX_MEMPOOL_USEROPS_PER_SENDER, THROTTLED_ENTITY_MEMPOOL_COUNT, } from "./constants.js";
 export class MempoolReputationChecks {

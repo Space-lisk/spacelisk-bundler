@@ -1,4 +1,4 @@
-import { defaultApiOptions } from "types/lib/options/api.js";
+import { defaultApiOptions } from "../../../../types/lib/options/api.js";
 export function parseArgs(args) {
     return {
         address: args["api.address"],

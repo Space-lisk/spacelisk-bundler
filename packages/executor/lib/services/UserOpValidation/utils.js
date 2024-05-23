@@ -1,8 +1,8 @@
 import { BigNumber } from "ethers";
-import { AddressZero } from "params/lib/index.js";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import { IEntryPoint__factory, IAccount__factory, IAggregatedAccount__factory, IAggregator__factory, IPaymaster__factory, SenderCreator__factory, } from "types/lib/executor/contracts/index.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
+import { AddressZero } from "../../../../params/lib/index.js";
+import RpcError from "../../../../types/lib/api/errors/rpc-error.js";
+import { IEntryPoint__factory, IAccount__factory, IAggregatedAccount__factory, IAggregator__factory, IPaymaster__factory, SenderCreator__factory, } from "../../../../types/lib/executor/contracts/index.js";
+import * as RpcErrorCodes from "../../../../types/lib/api/errors/rpc-error-codes.js";
 import { Interface, hexZeroPad, hexlify, keccak256 } from "ethers/lib/utils.js";
 import { getAddr } from "../../utils/index.js";
 export function nonGethErrorHandler(epContract, errorResult) {

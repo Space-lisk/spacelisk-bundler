@@ -1,6 +1,6 @@
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import { deepHexlify } from "utils/lib/hexlify.js";
+import RpcError from "../../types/lib/api/errors/rpc-error.js";
+import * as RpcErrorCodes from "../../types/lib/api/errors/rpc-error-codes.js";
+import { deepHexlify } from "../../utils/lib/hexlify.js";
 import { BundlerRPCMethods, CustomRPCMethods, HttpStatus, RedirectedRPCMethods } from "./constants.js";
 import { EthAPI, DebugAPI, Web3API, RedirectAPI, SubscriptionApi, } from "./modules/index.js";
 import { SkandhaAPI } from "./modules/skandha.js";

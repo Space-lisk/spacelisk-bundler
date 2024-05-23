@@ -1,5 +1,5 @@
 import { BigNumber, ethers } from "ethers";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/index.js";
 import mantleSDK from "@mantleio/sdk";
 export const estimateMantlePVG = (provider) => {
     const dummyWallet = ethers.Wallet.createRandom();

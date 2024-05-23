@@ -1,4 +1,4 @@
-import { MapDef, pruneSetToMax } from "utils/lib/index.js";
+import { MapDef, pruneSetToMax } from "../../../../utils/lib/index.js";
 import { gossipScoreThresholds, negativeGossipScoreIgnoreThreshold, } from "../gossip/scoringParameters.js";
 /** The default score for new peers */
 const DEFAULT_SCORE = 0;

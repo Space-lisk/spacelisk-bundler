@@ -1,4 +1,4 @@
-import { mapValues, LinkedList } from "utils/lib/index.js";
+import { mapValues, LinkedList } from "../../../../utils/lib/index.js";
 import { GossipType } from "../gossip/interface.js";
 var QueueType;
 (function (QueueType) {

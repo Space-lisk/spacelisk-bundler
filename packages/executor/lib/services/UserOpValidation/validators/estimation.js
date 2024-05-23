@@ -1,7 +1,7 @@
-import { AddressZero, BytesZero } from "params/lib/index.js";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
+import { AddressZero, BytesZero } from "../../../../../params/lib/index.js";
+import RpcError from "../../../../../types/lib/api/errors/rpc-error.js";
+import { IEntryPoint__factory } from "../../../../../types/lib/executor/contracts/index.js";
+import * as RpcErrorCodes from "../../../../../types/lib/api/errors/rpc-error-codes.js";
 import { BigNumber, Contract } from "ethers";
 import { nonGethErrorHandler } from "../utils.js";
 import { GethTracer } from "../GethTracer.js";

@@ -1,4 +1,4 @@
-import { SkandhaError } from "utils/lib/index.js";
+import { SkandhaError } from "../../../../../utils/lib/index.js";
 export var SszSnappyErrorCode;
 (function (SszSnappyErrorCode) {
     /** Invalid number of bytes for protobuf varint */

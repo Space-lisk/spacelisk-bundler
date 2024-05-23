@@ -1,7 +1,7 @@
 import { Mutex } from "async-mutex";
 import { BigNumber, utils } from "ethers";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import { ReputationStatus } from "types/lib/executor/index.js";
+import * as RpcErrorCodes from "../../../types/lib/api/errors/rpc-error-codes.js";
+import { ReputationStatus } from "../../../types/lib/executor/index.js";
 import { ReputationEntry } from "../entities/ReputationEntry.js";
 export class ReputationService {
     constructor(db, chainId, minInclusionDenominator, throttlingSlack, banSlack, minStake, minUnstakeDelay) {

@@ -1,8 +1,8 @@
 import EventEmitter from "node:events";
 import { WebSocket } from "ws";
 import { ethers } from "ethers";
-import { deepHexlify } from "utils/lib/hexlify.js";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import { deepHexlify } from "../../../utils/lib/hexlify.js";
+import { MempoolEntryStatus } from "../../../types/lib/executor/index.js";
 export var ExecutorEvent;
 (function (ExecutorEvent) {
     ExecutorEvent["pendingUserOps"] = "pendingUserOps";

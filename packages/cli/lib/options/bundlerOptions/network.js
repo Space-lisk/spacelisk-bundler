@@ -1,4 +1,4 @@
-import { defaultP2POptions } from "types/lib/options/index.js";
+import { defaultP2POptions } from "../../../../types/lib/options/index.js";
 export function parseArgs(args) {
     return {
         host: args["p2p.host"],

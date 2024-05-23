@@ -1,4 +1,4 @@
-import { fromHex } from "utils/lib/index.js";
+import { fromHex } from "../../../../../utils/lib/index.js";
 import { EncodedPayloadType } from "../../../reqresp/types.js";
 export async function* onStatus(relayersConfig) {
     const provider = relayersConfig.getNetworkProvider();

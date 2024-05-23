@@ -1,10 +1,10 @@
 import { BigNumber, ethers } from "ethers";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import { GasPriceMarkupOne } from "params/lib/index.js";
-import { getGasFee } from "params/lib/index.js";
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import RpcError from "../../../types/lib/api/errors/rpc-error.js";
+import * as RpcErrorCodes from "../../../types/lib/api/errors/rpc-error-codes.js";
+import { GasPriceMarkupOne } from "../../../params/lib/index.js";
+import { getGasFee } from "../../../params/lib/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/index.js";
+import { MempoolEntryStatus } from "../../../types/lib/executor/index.js";
 // custom features of Skandha
 export class Skandha {
     constructor(getNodeAPI = () => null, mempoolService, chainId, provider, config, logger) {

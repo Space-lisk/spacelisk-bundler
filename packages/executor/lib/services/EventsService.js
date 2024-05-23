@@ -1,5 +1,5 @@
-import { IEntryPoint__factory } from "types/lib/executor/contracts/factories/index.js";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import { IEntryPoint__factory } from "../../../types/lib/executor/contracts/factories/index.js";
+import { MempoolEntryStatus } from "../../../types/lib/executor/index.js";
 import { ExecutorEvent } from "./SubscriptionService.js";
 /**
  * Listens for events in the blockchain

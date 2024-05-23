@@ -1,8 +1,8 @@
 import { BigNumber, ethers } from "ethers";
 import { getAddress, hexValue } from "ethers/lib/utils.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import * as RpcErrorCodes from "../../../types/lib/api/errors/rpc-error-codes.js";
+import RpcError from "../../../types/lib/api/errors/rpc-error.js";
+import { MempoolEntryStatus } from "../../../types/lib/executor/index.js";
 import { now } from "../utils/index.js";
 export class MempoolEntry {
     constructor({ chainId, userOp, entryPoint, prefund, aggregator, factory, paymaster, userOpHash, hash, lastUpdatedTime, status, transaction, actualTransaction, submitAttempts, submittedTime, revertReason, }) {

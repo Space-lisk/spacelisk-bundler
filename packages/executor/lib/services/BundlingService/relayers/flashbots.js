@@ -1,4 +1,4 @@
-import { IEntryPoint__factory } from "types/lib/executor/contracts/index.js";
+import { IEntryPoint__factory } from "../../../../../types/lib/executor/contracts/index.js";
 import { FlashbotsBundleProvider, FlashbotsBundleResolution, } from "@flashbots/ethers-provider-bundle";
 import { estimateBundleGasLimit } from "../utils/index.js";
 import { now } from "../../../utils/index.js";

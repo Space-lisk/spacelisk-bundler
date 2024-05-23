@@ -1,4 +1,4 @@
-import { ssz } from "types/lib/index.js";
+import { ssz } from "../../../types/lib/index.js";
 export var ENRKey;
 (function (ENRKey) {
     ENRKey["tcp"] = "tcp";

@@ -1,7 +1,7 @@
 import fastify from "fastify";
 import cors from "@fastify/cors";
 import websocket from "@fastify/websocket";
-import RpcError from "types/lib/api/errors/rpc-error.js";
+import RpcError from "../../types/lib/api/errors/rpc-error.js";
 import logger from "./logger.js";
 import { HttpStatus } from "./constants.js";
 export class Server {

@@ -1,5 +1,5 @@
 import { ENR, SignableENR } from "@chainsafe/discv5";
-import logger from "api/lib/logger.js";
+import logger from "../../../../api/lib/logger.js";
 import { Eth2PeerDataStore } from "../peers/datastore.js";
 import { createNodejsLibp2p as _createNodejsLibp2p } from "./bundle.js";
 /**

@@ -1,10 +1,10 @@
-import { Server } from "api/lib/server.js";
-import { ApiApp } from "api/lib/app.js";
-import { Config } from "executor/lib/config.js";
-import { Namespace, getNamespaceByValue, RocksDbController, LocalDbController, } from "db/lib/index.js";
-import { Executor } from "executor/lib/executor.js";
-import logger from "api/lib/logger.js";
-import { createMetrics, getHttpMetricsServer } from "monitoring/lib/index.js";
+import { Server } from "../../../../api/lib/server.js";
+import { ApiApp } from "../../../../api/lib/app.js";
+import { Config } from "../../../../executor/lib/config.js";
+import { Namespace, getNamespaceByValue, RocksDbController, LocalDbController, } from "../../../../db/lib/index.js";
+import { Executor } from "../../../../executor/lib/executor.js";
+import logger from "../../../../api/lib/logger.js";
+import { createMetrics, getHttpMetricsServer } from "../../../../monitoring/lib/index.js";
 import { mkdir, readFile } from "../../util/index.js";
 import { getVersionData } from "../../util/version.js";
 export async function bundlerHandler(args) {

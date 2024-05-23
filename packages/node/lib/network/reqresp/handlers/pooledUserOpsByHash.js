@@ -1,5 +1,5 @@
-import { serializeUserOp, userOpHashToString } from "params/lib/utils/userOp.js";
-import logger from "api/lib/logger.js";
+import { serializeUserOp, userOpHashToString } from "../../../../../params/lib/utils/userOp.js";
+import logger from "../../../../../api/lib/logger.js";
 import { EncodedPayloadType } from "../../../reqresp/types.js";
 export async function* onPooledUserOpsByHash(executor, relayersConfig, req, metrics) {
     var _a;

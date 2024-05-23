@@ -1,5 +1,5 @@
-import { mapValues } from "utils/lib/index.js";
-import logger from "api/lib/logger.js";
+import { mapValues } from "../../../../utils/lib/index.js";
+import logger from "../../../../api/lib/logger.js";
 import { NetworkEvent } from "../events.js";
 import { GossipType } from "../gossip/interface.js";
 import { createGossipQueues } from "./gossipQueues.js";

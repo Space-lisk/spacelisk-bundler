@@ -1,5 +1,5 @@
-import { ssz } from "types/lib/index.js";
-import { MAX_MEMPOOLS_PER_BUNDLER } from "types/lib/sszTypes.js";
+import { ssz } from "../../../../types/lib/index.js";
+import { MAX_MEMPOOLS_PER_BUNDLER } from "../../../../types/lib/sszTypes.js";
 import { ContextBytesType, Encoding, } from "../types.js";
 // eslint-disable-next-line @typescript-eslint/naming-convention
 export const Status = ((_modules, handler) => {

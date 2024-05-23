@@ -1,4 +1,4 @@
-import { defaultMetricsOptions } from "types/lib/options/metrics.js";
+import { defaultMetricsOptions } from "../../../../types/lib/options/metrics.js";
 export function parseArgs(args) {
     return {
         enable: args["metrics.enable"],

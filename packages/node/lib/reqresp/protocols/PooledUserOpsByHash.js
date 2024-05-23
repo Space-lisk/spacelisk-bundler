@@ -1,4 +1,4 @@
-import { ssz } from "types/lib/index.js";
+import { ssz } from "../../../../types/lib/index.js";
 import { ContextBytesType, Encoding, } from "../types.js";
 export const PooledUserOpsByHash = (modules, handler) => {
     return {

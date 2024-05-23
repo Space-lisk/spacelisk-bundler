@@ -4,8 +4,8 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
+import RpcError from "../../../types/lib/api/errors/rpc-error.js";
+import * as RpcErrorCodes from "../../../types/lib/api/errors/rpc-error-codes.js";
 import { RpcMethodValidator } from "../utils/RpcMethodValidator.js";
 import { FeeHistoryArgs } from "../dto/FeeHistory.dto.js";
 export class SkandhaAPI {

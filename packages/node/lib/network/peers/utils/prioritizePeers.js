@@ -1,4 +1,4 @@
-import { shuffle, MapDef } from "utils/lib/index.js";
+import { shuffle, MapDef } from "../../../../../utils/lib/index.js";
 const LOW_SCORE_TO_PRUNE_IF_TOO_MANY_PEERS = -2;
 /**
  * Instead of attempting to connect the exact amount necessary this will overshoot a little since the success

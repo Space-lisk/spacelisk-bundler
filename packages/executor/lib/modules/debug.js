@@ -1,8 +1,8 @@
 import { BigNumber } from "ethers";
-import RpcError from "types/lib/api/errors/rpc-error.js";
-import * as RpcErrorCodes from "types/lib/api/errors/rpc-error-codes.js";
-import { IEntryPoint__factory, StakeManager__factory, } from "types/lib/executor/contracts/index.js";
-import { MempoolEntryStatus } from "types/lib/executor/index.js";
+import RpcError from "../../../types/lib/api/errors/rpc-error.js";
+import * as RpcErrorCodes from "../../../types/lib/api/errors/rpc-error-codes.js";
+import { IEntryPoint__factory, StakeManager__factory, } from "../../../types/lib/executor/contracts/index.js";
+import { MempoolEntryStatus } from "../../../types/lib/executor/index.js";
 import { getAddr } from "../utils/index.js";
 /*
   SPEC: https://eips.ethereum.org/EIPS/eip-4337#rpc-methods-debug-namespace
